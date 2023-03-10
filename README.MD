@@ -5,7 +5,7 @@
 <img src="captures/capt2.png">
 <h3>instantiation dynamique</h3>
 <img src="captures/capt1.png">
-<h3>fichier XML</h3>
+<h3>Fichier XML</h3>
 <img src="captures/capt5.png">
 <h3>Annotations</h3>
 <img src="captures/capt3.png">
